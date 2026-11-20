@@ -16,7 +16,7 @@ O produto é fruto da inovação, ciência de ponta e compromisso do BioDatA com
 
 
 # Inteligência Artificial Aplicada na área da saúde (Parkinson)
-
+obs: Entre na pasta Artigos para mais detalhes.
 ## Artigos Científicos
 
 ### 1. Multimodal diagnosis of Parkinson’s disease with an internet-based collaborative agent architecture of medical language models
