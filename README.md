@@ -27,5 +27,9 @@ O produto é fruto da inovação, ciência de ponta e compromisso do BioDatA com
 - [Sensors - MDPI](https://doi.org/10.3390/s20205840)
 - https://doi.org/10.3390/s20205840
 - **Ano:** 2020
-
+### 3. Uma Abordagem Multi Agentes de IA para Análise Multimodal e Gerenciamento Personalizado Da Doença De Parkinson
+- [Sociedade Brasileira de inteligência Computacional (SBIA)](https://sbia.org.br/wp-content/uploads/2025/12/pdf/CBIC_2025_paper1191926.pdf)
+- https://sbia.org.br/wp-content/uploads/2025/12/pdf/CBIC_2025_paper1191926.pdf
+- https://sbia.org.br/
+- **Ano:** 2025
 
