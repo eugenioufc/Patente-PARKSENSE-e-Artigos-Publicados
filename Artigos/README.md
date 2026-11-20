@@ -6,17 +6,28 @@
 - [Computers in Biology and Medicine - Elsevier](https://doi.org/10.1016/j.compbiomed.2026.111468)
 - https://doi.org/10.1016/j.compbiomed.2026.111468
 - **Ano:** 2026
+
+ Overview of IoMT platform services:
+
+![arquitetura](arquitetura_paper_doc.jpg)
+
+Clinical Decision Making Process:
+
+![Decision making process](clinical_decision_making_process.jpg)
+
+
+
 ### 2. Intelligent Sensory Pen for Aiding in the Diagnosis of Parkinson’s Disease from Dynamic Handwriting Analysis
 - [Sensors - MDPI](https://doi.org/10.3390/s20205840)
 - https://doi.org/10.3390/s20205840
 - **Ano:** 2020
 
-Handwritten Tests and Dataset
+Handwritten Tests and Dataset:
 
 ![Handwritten Tests](Handwritten_Tests.jpg)
 
 
   
- Coletando Dados no Hospital
+ Coletando Dados no Hospital:
  
 ![Coletando Dados no Hospital](Experimentation.jpg)
