@@ -8,7 +8,7 @@ Os pesquisadores Victor Hugo C. de Albuquerque e Eugenio Peixoto Junior patentea
 O produto é fruto da inovação, ciência de ponta e compromisso do BioDatA com o desenvolvimento de soluções tecnologicas inovadoras para a saúde
 
 ### 1. PATENTE - Caneta Sensora para detecção de Parkinson
-- [PARKSENSE]([https://doi.org/10.3390/s20205840](https://www.instagram.com/p/DLYOzRfyLw0/?cnvx=MTFjY3YwNmwyMDZuNw%3D%3D))
+- [PARKSENSE](https://www.instagram.com/p/DLYOzRfyLw0/?cnvx=MTFjY3YwNmwyMDZuNw%3D%3D)
 
 ### 2. BioData - Biomedical Data Analytics Research Group
 - [BioData](https://www.instagram.com/_biodata_?dmpr=Ym40b2xobzVyYWxp)
