@@ -1,4 +1,4 @@
-# Patente Publicada: PARKSENSE e os Artigo Publicados com tema IA aplicada a Doença de Parkinson
+# Patente Publicada: PARKSENSE e os Artigos de Aplicações da Inteligência Artificial na Doença de Parkinson
 Caneta Inteligente para Detecção de Parkinson com 100% de precisão clínica
 
 Número da patente: BR 10 2025 011637 5
