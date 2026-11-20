@@ -10,3 +10,4 @@
 - [Sensors - MDPI](https://doi.org/10.3390/s20205840)
 - https://doi.org/10.3390/s20205840
 - **Ano:** 2020
+![Coletando Dados no Hospital](Experimentation.jpg)
