@@ -13,7 +13,7 @@
 
 Handwritten Tests and Dataset
 
-![Handwritten Tests](Handwritten Tests and Dataset.jpg)
+![Handwritten Tests](Handwritten_Tests.jpg)
 
 
   
