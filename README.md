@@ -14,7 +14,7 @@ O produto é fruto da inovação, ciência de ponta e compromisso do BioDatA com
 - [BioData](https://www.instagram.com/_biodata_?dmpr=Ym40b2xobzVyYWxp)
 
 
-# Inteligência Artificial Aplicada à Doença de Parkinson
+# Inteligência Artificial Aplicada na área da saúde (Parkinson)
 
 ## Artigos Científicos
 
