@@ -4,12 +4,15 @@ Caneta Inteligente para Detecção de Parkinson com 100% de precisão clínica
 
 Número da patente: BR 10 2025 011637 5
 
-Link BioData: https://www.instagram.com/_biodata_?dmpr=Ym40b2xobzVyYWxp
+Os pesquisadores Victor Hugo C. de Albuquerque e Eugenio Peixoto Junior patentearam a invenção ParkSense, caneta inteligente capaz de detectar sinais da Doença de Parkinson com elevada precisão.
+O produto é fruto da inovação, ciência de ponta e compromisso do BioDatA com o desenvolvimento de soluções tecnologicas inovadoras para a saúde
 
-Link Projeto: https://www.instagram.com/p/DLYOzRfyLw0/?cnvx=MTFjY3YwNmwyMDZuNw%3D%3D
+### 1. PATENTE - Caneta Sensora para detecção de Parkinson
+- [PARKSENSE]([https://doi.org/10.3390/s20205840](https://www.instagram.com/p/DLYOzRfyLw0/?cnvx=MTFjY3YwNmwyMDZuNw%3D%3D))
 
-Link Artigo da primeira versão da caneta PARKSENSE: https://doi.org/10.3390/s20205840
-- Intelligent Sensory Pen for Aiding in the Diagnosis of Parkinson’s Disease from Dynamic Handwriting Analysis
+### 2. BioData - Biomedical Data Analytics Research Group
+- [BioData](https://www.instagram.com/_biodata_?dmpr=Ym40b2xobzVyYWxp)
+
 
 # Inteligência Artificial Aplicada à Doença de Parkinson
 
